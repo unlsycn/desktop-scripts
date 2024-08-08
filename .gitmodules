@@ -1,0 +1,6 @@
+[submodule "fzfmenu"]
+	path = fzfmenu
+	url = git@github.com:unlsycn/fzfmenu.git
+[submodule "unlauncher"]
+	path = unlauncher
+	url = git@github.com:unlsycn/Unlauncher.git
