@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 directory=~/Pictures/wallpapers
 monitors=$(hyprctl monitors | grep Monitor | awk '{print $2}')

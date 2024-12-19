@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 LAYOUT=$(hyprctl -j getoption general:layout | jq '.str' | sed 's/"//g')
 
 case $LAYOUT in
